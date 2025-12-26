@@ -12,11 +12,11 @@
     "url": "git+https://github.com/DimaDvizhok/goit-js-hw-09.git"
   },
   "license": "ISC",
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Dvizhok",
   "type": "module",
   "main": "vite.config.js",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --open",
     "build": "vite build --base=/vanilla-app-template/",
     "preview": "vite preview"
   },
