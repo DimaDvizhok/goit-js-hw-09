@@ -10,3 +10,11 @@
 
 /* Sections style */
 @import url('./1-gallery.css');
+
+.index-list {
+  margin: 50px;
+  font-size: 20px;
+}
+.index-item:first-child {
+  margin-bottom: 10px;
+}
